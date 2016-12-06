@@ -28,3 +28,6 @@ class FlowNetwork(object):
 
     def GetEdges(self, v):
         return self.adj[v]
+
+
+print("hello")
