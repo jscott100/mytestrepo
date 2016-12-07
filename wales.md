@@ -1,5 +1,6 @@
 Mountains in Wales
 ==================
-*Different Mountain
+<<<<<<< HEAD
+*Another Mountain
 *Tryfan
-*Yr Wyddfa
+*Snowden
